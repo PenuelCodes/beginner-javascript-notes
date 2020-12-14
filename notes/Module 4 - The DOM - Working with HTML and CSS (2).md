@@ -1252,7 +1252,7 @@ The inside of the `div.item` has been updated with some HTML.
 
 That works because if you set the `innerHTML` of an element with just a string, it will take the text and dump that HTML into the item. This can be used instead of te `document.createElement`, or `document.cloneElement` methods we used in the previous lesson.
 
-If the string it is valid HTML, the browser will take the string, parse it and turn it into all the items.
+If the string it is valid HTML, the browser will take the string, pass it and turn it into all the items.
 
 _TIP: You may have noticed that in Wes code editor, he has the ability to type the first few letters of something and then expand it. He is using an extension called Emmet to get those expansions and using a command called Expand Abbreviation to expand them. It lets you write things like `div.item.item` which will expand out to `<div class="item iteme"></div>`._
 
