@@ -1,2 +1,5 @@
 # beginner-javascript-notes
-Collection of notes that I am creating for Wes' https://beginnerjavascript.com course. 
+
+This repository contains written notes for the https://beginnerjavascript.com course by Wes Bos. 
+
+
