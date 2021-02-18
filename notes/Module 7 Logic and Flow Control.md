@@ -297,7 +297,7 @@ As a refresher, if you open the html page in the browser and try to type `age = 
 
 ![](@attachment/Clipboard_2020-03-11-07-21-59.png) 9:05
 
-The code is erroring out because the single value will set the value of the variable, and `age` is a const variable, so you cannot do that. 
+The code is erroring out because the single = will set the value of the variable, and `age` is a const variable, so you cannot do that. 
 
 ```js
  age == 100;
