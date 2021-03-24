@@ -590,7 +590,7 @@ What happened is that both the window event listener fired, and the `handleBuyBu
 
 ### Propagation
 
-It is possible to be clicking on multiple things as a certain time. That is what is referred to as **propagation**. 
+It is possible to be clicking on multiple things at a certain time. That is what is referred to as **propagation**. 
 
 When we clicked the strong tag, what happens is the event bubbles up. 
 
